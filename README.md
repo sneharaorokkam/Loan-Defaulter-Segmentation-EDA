@@ -25,4 +25,4 @@ It contains information about the client’s previous loan data. It contains the
 
 3. 'columns_description.csv'
 It is data dictionary which describes the meaning of the variables.
-![image](https://user-images.githubusercontent.com/15810457/232479759-b66adb2a-4fa2-4608-a3d9-279a749422dd.png)
+
